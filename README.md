@@ -1,1 +1,1 @@
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexcu&width=925&height=475&skills=batchfile,c,c-sharp,c++,css,coffeescript,java,javascript,objective-c,pandas,python,ruby,scss,shell,statistics,swift&show-other-skills=true">
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexcu&width=925&height=200&skills=batchfile,c,c-sharp,c++,css,coffeescript,java,javascript,objective-c,pandas,python,ruby,scss,shell,statistics,swift&show-other-skills=true">
