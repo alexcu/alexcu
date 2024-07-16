@@ -1,1 +1,1 @@
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=alexcu&width=925&height=200&skills=batchfile,c,C%23,C%2B%2B,css,coffeescript,html,json,java,javascript,juypter%20notebook,objective-c,pandas,python,ruby,scss,shell,statistics,swift&show-other-skills=true">
+
